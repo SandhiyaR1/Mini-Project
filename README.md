@@ -3,6 +3,10 @@
 SUPER STORES 
 ### TOPIC:
 DATA VISUALIZATION
+## team members:
+Sandhiya.R (212222230129)
+
+Thirisha.S (212222230160)
 # AIM:
 To perform data visualization for the given dataset.
 
